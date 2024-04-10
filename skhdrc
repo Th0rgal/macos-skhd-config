@@ -27,7 +27,7 @@ alt - b : open -na "Brave Browser"
 alt - return : open -na Alacritty
 
 # File explorer
-alt - w : open -na Finder
+alt - w : open -n ~/
 
 # Toggle window full-screen
 alt - f : yabai -m window --toggle zoom-fullscreen
