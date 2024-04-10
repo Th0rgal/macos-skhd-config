@@ -32,6 +32,9 @@ alt - w : open -n ~/
 # Toggle window full-screen
 alt - f : yabai -m window --toggle zoom-fullscreen
 
+# Toggle window mode with alt + t
+alt - t : yabai -m window --toggle float
+
 # Close the focused window with alt + shift + q
 alt + shift - q : yabai -m window --close
 
